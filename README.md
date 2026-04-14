@@ -9,7 +9,6 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-red)
 ![AI](https://img.shields.io/badge/AI-Local_LLMs-purple)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h8handles&show_icons=true&hide_border=true)
 
 ---
 
